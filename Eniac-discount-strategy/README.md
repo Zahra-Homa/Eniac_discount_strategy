@@ -31,7 +31,7 @@ My task as a data analyst was to use internal company data to uncover insights a
     Suggests revenue is more influenced by seasonal demand than discounts.
 - **Revenue vs. Discounts:**  
   - Heavy discount ≠ high revenue: e.g., Apple products were top revenue drivers with low average discounts.  
-  - >1400 price range had the highest average discount but contributed less to overall revenue.  
+  - Greater than 1400$ price range had the highest average discount but contributed less to overall revenue after getting discounted.  
   - Mid-range products (100-600) generated strong revenue with moderate discounts (most efficient segment).
 - **Category-level trends:**  
   - Top 5 categories (Storage, Monitor, RAM, Tablet, Smartphone): higher discounts showed negative correlation with revenue.  
@@ -41,6 +41,7 @@ My task as a data analyst was to use internal company data to uncover insights a
 
 - **Source:** Provided by WBS Coding School.  
 - **Note:** Due to its large size, the dataset cannot be uploaded here.
+
 
 
 
